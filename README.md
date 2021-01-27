@@ -9,3 +9,7 @@ In recent years, the two dimensional convolutional neural network has beeen wide
 * II. Application side - In some real-world applications, the 1D CNNs need the use of man-made pre-processing steps, which is time-consuming and expensive. In this paper, the end-to-end algorithms is developed without human inference.
 
 ## Learning Structure:
+
+<img src="https://github.com/W1AE/OCC/blob/main/F.jpg" width="1050" height="430" />
+
+## Downloads:
