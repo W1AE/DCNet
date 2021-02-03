@@ -10,6 +10,6 @@ In recent years, the two dimensional convolutional neural network has beeen wide
 
 ## Learning Structure:
 
-<img src="https://github.com/W1AE/OCC/blob/main/F.jpg" width="1050" height="430" />
+<img src="https://github.com/W1AE/DCNet/blob/main/f1_n.jpg" width="1050" height="430" />
 
 ## Downloads:
