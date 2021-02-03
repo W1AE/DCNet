@@ -13,3 +13,17 @@ In recent years, the two dimensional convolutional neural network has beeen wide
 <img src="https://github.com/W1AE/DCNet/blob/main/f1_n.jpg" width="1050" height="430" />
 
 ## Downloads:
+### Connect4 dataset
+* Connect4 dataset: [Caltech-101 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+* Source code for Connect4: [Connect4](https://github.com/W1AE/Retraining/blob/main/Demo_Caltech101.zip)
+### Hep-OS dataset
+* Hep-OS dataset: [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
+* Source code for Hep-OS: [Hep-OS](https://github.com/W1AE/Retraining/blob/main/Demo_MNIST.zip)
+
+## Dependancies
+* Matlab version 2020a,
+* A workstation with a 256GB memory and an E5-2650 processor.
+
+## Reproduce the Experimental Results
+
+#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
