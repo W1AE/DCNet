@@ -14,8 +14,8 @@ In recent years, the two dimensional convolutional neural network has beeen wide
 
 ## Downloads:
 ### Connect4 dataset
-* Connect4 dataset: [Caltech-101 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
-* Source code for Connect4: [Connect4](https://github.com/W1AE/Retraining/blob/main/Demo_Caltech101.zip)
+* Connect4 dataset: [Connect4 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+* Source code for Connect4: [Connect4](https://github.com/W1AE/DCNet/blob/main/Code_Connect4.zip)
 ### Hep-OS dataset
 * Hep-OS dataset: [Hep-OS (Google Drive)](https://drive.google.com/file/d/1kL3de2i6QYgFyOpmZYlnFy6_IJKeRB38/view?usp=sharing)
 * Source code for Hep-OS: [Hep-OS](https://github.com/W1AE/DCNet/blob/main/Code_Hep-OS.zip)
