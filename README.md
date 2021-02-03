@@ -18,7 +18,7 @@ In recent years, the two dimensional convolutional neural network has beeen wide
 * Source code for Connect4: [Connect4](https://github.com/W1AE/Retraining/blob/main/Demo_Caltech101.zip)
 ### Hep-OS dataset
 * Hep-OS dataset: [Hep-OS (Google Drive)](https://drive.google.com/file/d/1kL3de2i6QYgFyOpmZYlnFy6_IJKeRB38/view?usp=sharing)
-* Source code for Hep-OS: [Hep-OS](https://github.com/W1AE/Retraining/blob/main/Demo_MNIST.zip)
+* Source code for Hep-OS: [Hep-OS](https://github.com/W1AE/DCNet/blob/main/Code_Hep-OS.zip)
 
 ## Dependancies
 * Matlab version 2020a,
